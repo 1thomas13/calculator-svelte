@@ -11,7 +11,7 @@
 
 
 ```bash
- Una vez esta iniciado el servidor y el cliente podra usar la app correctamente
+ Una vez esta iniciado el cliente podra usar la app correctamente
 ```
 
 ## 🏗 Tecnologias utilizadas
